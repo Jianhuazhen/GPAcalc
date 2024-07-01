@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GPAcalc/static/css/main.d863c5b2.css",
+    "main.js": "/GPAcalc/static/js/main.397c63b5.js",
+    "static/js/453.96842e3a.chunk.js": "/GPAcalc/static/js/453.96842e3a.chunk.js",
+    "index.html": "/GPAcalc/index.html",
+    "main.d863c5b2.css.map": "/GPAcalc/static/css/main.d863c5b2.css.map",
+    "main.397c63b5.js.map": "/GPAcalc/static/js/main.397c63b5.js.map",
+    "453.96842e3a.chunk.js.map": "/GPAcalc/static/js/453.96842e3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d863c5b2.css",
+    "static/js/main.397c63b5.js"
+  ]
+}
